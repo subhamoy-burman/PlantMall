@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>/Users/imac01/Projects/Xamarin.Forms UI Challenges/ArtPlantMall.Local/ArtPlantMall.Local/App.xaml</FilePath>
+      <Hash>ED-B9-A8-44-E8-AE-14-A8-E7-5B-5E-32-76-8D-9B-C1</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>/Users/imac01/Projects/Xamarin.Forms UI Challenges/ArtPlantMall.Local/ArtPlantMall.Local/MainPage.xaml</FilePath>
+      <Hash>B7-02-60-A7-CE-F1-B3-70-D1-88-30-93-F8-F9-CE-28</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>/Users/imac01/Projects/Xamarin.Forms UI Challenges/ArtPlantMall.Local/ArtPlantMall.Local/Style/Colors.xaml</FilePath>
+      <Hash>81-4C-15-F5-BB-0D-A4-94-D5-1A-52-1E-F2-53-F6-F8</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>/Users/imac01/Projects/Xamarin.Forms UI Challenges/ArtPlantMall.Local/ArtPlantMall.Local/Style/Fonts.xaml</FilePath>
+      <Hash>5E-A1-19-F6-D9-F0-EA-B6-56-BC-00-BD-A3-2D-34-C3</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>/Users/imac01/Projects/Xamarin.Forms UI Challenges/ArtPlantMall.Local/ArtPlantMall.Local/Templates/PlantItemTemplate.xaml</FilePath>
+      <Hash>31-7A-52-00-D1-2E-6D-1E-D0-EF-91-E7-1A-67-FE-A1</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>/Users/imac01/Projects/Xamarin.Forms UI Challenges/ArtPlantMall.Local/ArtPlantMall.Local/Views/ArtPlantMallView.xaml</FilePath>
+      <Hash>A7-B8-D0-D0-F0-3E-9D-5A-46-6F-20-2D-93-48-87-D0</Hash>
+      <Properties>
+        <string>BackgroundColor</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>/Users/imac01/Projects/Xamarin.Forms UI Challenges/ArtPlantMall.Local/ArtPlantMall.Local/Views/CartPopupView.xaml</FilePath>
+      <Hash>85-B0-70-2E-60-51-73-D9-7A-73-3A-F1-B2-49-A4-AE</Hash>
+      <Properties />
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>
